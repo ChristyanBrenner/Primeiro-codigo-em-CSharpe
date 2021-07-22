@@ -1,2 +1,2 @@
-# Primeiro-codigo-em-CSharpe
+# Primeiro-codigo-em-CSharp
 primeira vez com o C#
