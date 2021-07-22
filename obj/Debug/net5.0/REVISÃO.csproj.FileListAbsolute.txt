@@ -1,0 +1,16 @@
+C:\workspace\REVISÃO\bin\Debug\net5.0\REVISÃO.exe
+C:\workspace\REVISÃO\bin\Debug\net5.0\REVISÃO.deps.json
+C:\workspace\REVISÃO\bin\Debug\net5.0\REVISÃO.runtimeconfig.json
+C:\workspace\REVISÃO\bin\Debug\net5.0\REVISÃO.runtimeconfig.dev.json
+C:\workspace\REVISÃO\bin\Debug\net5.0\REVISÃO.dll
+C:\workspace\REVISÃO\bin\Debug\net5.0\ref\REVISÃO.dll
+C:\workspace\REVISÃO\bin\Debug\net5.0\REVISÃO.pdb
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.csproj.AssemblyReference.cache
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.AssemblyInfoInputs.cache
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.AssemblyInfo.cs
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.csproj.CoreCompileInputs.cache
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.dll
+C:\workspace\REVISÃO\obj\Debug\net5.0\ref\REVISÃO.dll
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.pdb
+C:\workspace\REVISÃO\obj\Debug\net5.0\REVISÃO.genruntimeconfig.cache
